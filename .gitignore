@@ -19,3 +19,7 @@ hs_err_pid*
 /dist/
 /test/
 /nbproject/
+
+# only include source files
+build.xml
+manifest.mf
